@@ -1,0 +1,72 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/TubHiger/sbhack/commit/a4c12ffda16e3af3bac0c7e5917176bf9bca79bd\"><strong>a</strong>4c12ffda16e3af3bac0c7e5917176bf9bca79bd</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "cafe-commit",
+    "tier": 0,
+    "desc": "I pushed a commit with \"cafe\" once.",
+    "body": "- <a href=\"https://github.com/ChirayuRai/CPP_ITC_Comp_2023/commit/bdf04d103c7ff311ba0b09a443947cafe2564151\">bdf04d103c7ff311ba0b09a443947<strong>cafe</strong>2564151</a>",
+    "image": "https://my-badges.github.io/my-badges/cafe-commit.png"
+  },
+  {
+    "id": "epic-commit",
+    "tier": 0,
+    "desc": "I made an epic commit with a message over 500 chars.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/paideia1200bce/airbyte/commit/b6d59e6e27ee63b04a5d4917e4ee0a04f16b1223\">b6d59e6</a>",
+    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"update\".",
+    "body": "My favorite commit message words are:\n\n1. update (used 318 times)\n2. home.tsx (used 53 times)\n3. homenav.tsx (used 37 times)\n4. gpt.tsx (used 26 times)\n5. resolvers.js (used 24 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "mass-delete-commit",
+    "tier": 1,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/paideia1200bce/beach-hacks-dev-portal/commit/87367c682da4e2475e372038a4f5c87cfd859eeb\">87367c6</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
+  },
+  {
+    "id": "mass-delete-commit-10k",
+    "tier": 2,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/paideia1200bce/beach-hacks-dev-portal/commit/87367c682da4e2475e372038a4f5c87cfd859eeb\">87367c6</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
+  },
+  {
+    "id": "sleepy-coder",
+    "tier": 0,
+    "desc": "I am a sleepy coder.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/paideia1200bce/Paideia-Knowledge/commit/626027615338959df001ebba740dc01ac96178e8\">6260276</a>\n- <a href=\"https://github.com/paideia1200bce/Paideia-Knowledge/commit/c860435ee8c6baed6f30a127a560cd5487e15bd6\">c860435</a>\n- <a href=\"https://github.com/paideia1200bce/Paideia-Knowledge/commit/c6bfce1aeb27d4d74d47be11f3a63e912810abac\">c6bfce1</a>\n- <a href=\"https://github.com/paideia1200bce/Paideia-Knowledge/commit/b45fa6ffbc75cdc60ac4d53c5ddbbf8aef4ab40c\">b45fa6f</a>\n- <a href=\"https://github.com/paideia1200bce/Paideia-Knowledge/commit/716363350fa24e5f5f3c4af4848fca741b7610ad\">7163633</a>\n- <a href=\"https://github.com/paideia1200bce/Paideia-Knowledge/commit/e6e4bebf61dd15825a57948a47b74528bf9a9946\">e6e4beb</a>",
+    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/paideia1200bce/paideia1200bce/commit/08cfadc390ea63db1dd3c8ecb957bf64befb2169\">08cfadc</a>\n- <a href=\"https://github.com/paideia1200bce/paideia1200bce/commit/e99c156114face1da64214c247fc419e5c947c14\">e99c156</a>\n- <a href=\"https://github.com/paideia1200bce/Paideia-Knowledge/commit/4df39d6521e14e52a5787e5da855fb8f6827e00d\">4df39d6</a>\n- <a href=\"https://github.com/paideia1200bce/Paideia-Knowledge/commit/2a3d137536e090c10aa5a9d04155f12a8cccd579\">2a3d137</a>\n- <a href=\"https://github.com/paideia1200bce/Paideia-Knowledge/commit/36c24e6a8082c2f36e37ea6dc66c5a48a24d26f3\">36c24e6</a>\n- <a href=\"https://github.com/paideia1200bce/Paideia-Knowledge/commit/1bf7838818112b86d1de267001ca92670a4a752a\">1bf7838</a>",
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/paideia1200bce/RuralMind/commit/7e9d85c2d10f42be7aeebc61b73707c376380e73\">7e9d85c</a>\n- <a href=\"https://github.com/TubHiger/sbhack/commit/a4c12ffda16e3af3bac0c7e5917176bf9bca79bd\">a4c12ff</a>\n- <a href=\"https://github.com/TubHiger/sbhack/commit/542b16d538dae5073e25701448f499de8a315067\">542b16d</a>\n- <a href=\"https://github.com/paideia1200bce/AmbrosiaGarden/commit/712bc917cf0515ff1876ceb64b8034cc35976e68\">712bc91</a>\n- <a href=\"https://github.com/paideia1200bce/AmbrosiaGarden/commit/e4a10170d078284214e40fb0e87ba7e004be552c\">e4a1017</a>\n- <a href=\"https://github.com/paideia1200bce/AmbrosiaGarden/commit/d21c690116c0a211a5ec31d342ad9f5239af8c97\">d21c690</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  },
+  {
+    "id": "midnight-commits",
+    "tier": 0,
+    "desc": "I commit at midnight.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ChirayuRai/CPP_ITC_Comp_2023/commit/c38b49cd4fbdc965bdf8bb1b1059990fcde2ab87\">c38b49c</a>\n- <a href=\"https://github.com/ChirayuRai/CPP_ITC_Comp_2023/commit/382c2ca4e5d4338565dff214f48883c9e3c9d2a9\">382c2ca</a>\n- <a href=\"https://github.com/paideia1200bce/flutter-backend-4800/commit/2d19d3c00f031b8e77d9927b98f342f9ba1cb5f5\">2d19d3c</a>",
+    "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
+  }
+]
