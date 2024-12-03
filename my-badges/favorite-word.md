@@ -8,7 +8,7 @@ My favorite commit message words are:
 2. home.tsx (used 53 times)
 3. homenav.tsx (used 37 times)
 4. gpt.tsx (used 26 times)
-5. resolvers.js (used 24 times)
+5. delete (used 24 times)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

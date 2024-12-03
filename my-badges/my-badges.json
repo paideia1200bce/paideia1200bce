@@ -3,7 +3,7 @@
     "id": "a-commit",
     "tier": 1,
     "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/TubHiger/sbhack/commit/a4c12ffda16e3af3bac0c7e5917176bf9bca79bd\"><strong>a</strong>4c12ffda16e3af3bac0c7e5917176bf9bca79bd</a>",
+    "body": "- <a href=\"https://github.com/arul-opsverse/posthog.com/commit/a09ae9d2c8e20ef93c6b092d05ca1698fe5fc54f\"><strong>a</strong>09ae9d2c8e20ef93c6b092d05ca1698fe5fc54f</a>",
     "image": "https://my-badges.github.io/my-badges/a-commit.png"
   },
   {
@@ -24,21 +24,21 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 318 times)\n2. home.tsx (used 53 times)\n3. homenav.tsx (used 37 times)\n4. gpt.tsx (used 26 times)\n5. resolvers.js (used 24 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 318 times)\n2. home.tsx (used 53 times)\n3. homenav.tsx (used 37 times)\n4. gpt.tsx (used 26 times)\n5. delete (used 24 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
     "id": "mass-delete-commit",
     "tier": 1,
     "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/paideia1200bce/beach-hacks-dev-portal/commit/87367c682da4e2475e372038a4f5c87cfd859eeb\">87367c6</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/paideia1200bce/portfolio/commit/e12590d52143ee10156b520396288c4d1f3e2b8a\">e12590d</a>",
     "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
   },
   {
     "id": "mass-delete-commit-10k",
     "tier": 2,
     "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/paideia1200bce/beach-hacks-dev-portal/commit/87367c682da4e2475e372038a4f5c87cfd859eeb\">87367c6</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/paideia1200bce/portfolio/commit/e12590d52143ee10156b520396288c4d1f3e2b8a\">e12590d</a>",
     "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
   },
   {
