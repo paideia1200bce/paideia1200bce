@@ -5,10 +5,10 @@
 My favorite commit message words are:
 
 1. update (used 318 times)
-2. * (used 92 times)
-3. home.tsx (used 53 times)
-4. homenav.tsx (used 37 times)
-5. gpt.tsx (used 26 times)
+2. home.tsx (used 53 times)
+3. homenav.tsx (used 37 times)
+4. gpt.tsx (used 26 times)
+5. delete (used 24 times)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
